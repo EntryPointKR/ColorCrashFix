@@ -1,6 +1,7 @@
 name: ColorCrashFix
 version: 1.0
-main: kr.RVS.ColorCrashFix.Main
+main: kr.rvs.colorcrashfix.ColorCrashFix
 author: EntryPoint
+depend: [ProtocolLib]
 commands:
   ccfreload:
